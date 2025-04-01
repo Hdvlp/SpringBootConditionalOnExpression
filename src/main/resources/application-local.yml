@@ -1,0 +1,6 @@
+app: 
+  config:
+    inside:
+      prop: a
+    outside:
+      prop: b
