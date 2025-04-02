@@ -5,7 +5,7 @@ public class SomeBean1 implements SomeBean{
         System.out.println("Some bean1 is constructed."); 
     }
 
-    public void doSomething() {
+    public void configSomething() {
         System.out.println("Some bean1 is active.");
     }
 

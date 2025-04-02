@@ -1,7 +1,7 @@
 package com.conditional.demo.config;
 
 public class CustomBean {
-    public void doSomething() {
+    public void configSomething() {
         System.out.println("Custom bean is active!");
     }
 }
